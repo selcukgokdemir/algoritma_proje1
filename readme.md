@@ -22,9 +22,9 @@ n+(n-1)+(n-2)+...+1= n.(n+1)/2  O(n^2) olur.
 
 # soru 3- Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız # 
 
-Average case: Aradığımız sayının ortada olması
-Worst case: Aradığımız sayının sonda olması
-Best case: Aradığımız sayının dizinin en başında olması.
+..Average case: Aradığımız sayının ortada olması
+. Worst case: Aradığımız sayının sonda olması
+. Best case: Aradığımız sayının dizinin en başında olması.
 
 #  cevap 3 # 
 ` [2,6,16,18,22,27] ` 
